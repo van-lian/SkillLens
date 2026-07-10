@@ -1,2 +1,0 @@
-plotly==5.24.1
-networkx==3.4.2
